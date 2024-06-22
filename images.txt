@@ -1,1 +1,1 @@
-nginx
+dockur/windows
