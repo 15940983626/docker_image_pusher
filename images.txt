@@ -1,2 +1,2 @@
-linuxserver/emby
+linuxserver/jellyfin
 
